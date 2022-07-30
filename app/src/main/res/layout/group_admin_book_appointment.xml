@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:id="@+id/GroupChildName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lora"
+            android:text="Child's Name"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/ChildName"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@drawable/rounded_edittext"
+            android:backgroundTint="#7363E7"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/GroupStatusVaccine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/GroupStatus"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lora"
+                android:text="Status"
+                android:textSize="12sp" />
+
+            <Spinner
+                android:id="@+id/Status"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:background="@drawable/rounded_edittext"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="11sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/GroupVaccine"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lora"
+                android:text="Time"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/Time"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:background="@drawable/rounded_edittext"
+                android:backgroundTint="#7363E7"
+                android:fontFamily="@font/poppins"
+                android:gravity="center"
+
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/GroupDateOfAppointment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lora"
+            android:text="Date of Appointment"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/DateOfAppointment"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+
+            android:background="@drawable/rounded_edittext"
+            android:backgroundTint="#7363E7"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/GroupHospitalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lora"
+            android:text="Hospital's Name"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/HospitalName"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@drawable/rounded_edittext"
+            android:backgroundTint="#7363E7"
+            android:fontFamily="@font/poppins"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Update"
+        android:layout_width="122dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="43dp"
+        android:layout_marginBottom="50dp"
+        android:backgroundTint="#E7B416"
+        android:text="Update"
+        app:cornerRadius="24dp" />
+
+
+</LinearLayout>

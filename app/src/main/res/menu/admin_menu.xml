@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/BookAppointment"
+            android:title="Book Appointment" />
+
+        <item
+            android:id="@+id/GetChildDetails"
+            android:title="Get Child Deatails" />
+
+        <item
+            android:id="@+id/AddHospital"
+            android:title="Hospital List" />
+
+        <item
+            android:id="@+id/AddVaccine"
+            android:title="Add Vaccine" />
+
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

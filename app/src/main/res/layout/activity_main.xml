@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:layout_width="607dp"
+        android:layout_height="531dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/inject_boy"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="101dp"
+        android:fontFamily="@font/lora"
+        android:text="@string/protect_yourself_and_family_by_vaccinating"
+        android:textColor="#071A52"
+        android:textSize="43dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/menu_parent"
+        android:layout_width="242dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="505dp"
+        android:text="@string/parent"
+        app:cornerRadius="50dp"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/menu_hospital"
+        android:layout_width="242dp"
+        android:layout_height="60dp"
+        android:text="@string/hospital"
+        app:cornerRadius="50dp"
+        android:textSize="17sp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/menu_parent"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

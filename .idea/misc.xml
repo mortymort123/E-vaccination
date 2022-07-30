@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/ellipse_1.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/ellipse_2.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/ellipse_3.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/ellipse_4.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/rounded_edittext.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/drawable/syringe.xml" value="0.167" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/font/lora.xml" value="0.109375" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout-v28/activity_hospital_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout-v28/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_hospital_login.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_hospital_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_hospital_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_parent_login.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_parent_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/activity_parent_register.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/content_hospital_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/fragment_gallery.xml" value="0.5" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/evaccination/app/src/main/res/layout/nav_header_hospital_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/drawable/ellipse_2.xml" value="0.1755" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1615" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1615" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1615" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_admin_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_hospital_drawer.xml" value="0.14" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_hospital_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_hospital_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_hospital_register.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_main.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_parent_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_parent_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_parent_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/activity_parent_register.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/admin_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_admin_add_hospital.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_admin_add_vaccine.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_admin_book_appointment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_admin_get_child_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_admin_hospital_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_all_apointment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_hospital_all_apointment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_parent_add_child.xml" value="0.2401263823064771" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_parent_all_apointment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_parent_book_appointment.xml" value="0.25982905982905985" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_parent_my_profile.xml" value="0.27241139680333565" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/fragment_parent_view_child.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_admin_add_vaccine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_admin_book_appointment.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_admin_get_child.xml" value="0.203125" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_admin_hospital_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_hospital_all_appointment.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_parent_all_appointment.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_parent_view_child.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/group_view_child.xml" value="0.47020725388601037" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/hospital_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/nav_layout.xml" value="0.203125" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/parent_header.xml" value="0.203125" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.203125" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/menu/admin_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/menu/hospital_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/Documents/evaccination/app/src/main/res/menu/parent_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

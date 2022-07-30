@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903570907561",
+    "firebase_url": "https://e-vaccination-86e67-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-vaccination-86e67",
+    "storage_bucket": "e-vaccination-86e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903570907561:android:999800467e4c7bdb3364b8",
+        "android_client_info": {
+          "package_name": "com.example.e_vaccination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903570907561-dv0l93v5kc1qtmgj9cp78742dnersed9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXGd4bRR9af64BnVbqQquS82TPu3xP0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903570907561-dv0l93v5kc1qtmgj9cp78742dnersed9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
